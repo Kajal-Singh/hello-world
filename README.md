@@ -1,2 +1,3 @@
 # hello-world
-first repository
+new repository
+I am Kajal Kumari.
